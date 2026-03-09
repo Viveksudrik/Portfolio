@@ -2,8 +2,6 @@
 
 A modern, interactive developer portfolio built with **React**, **Three.js**, **GSAP**, and **TypeScript**. Features a 3D animated character, smooth scroll animations, and a responsive design.
 
-![Portfolio Preview](public/images/preview.png)
-
 ## ✨ Features
 
 - **3D Character Model** — Interactive Three.js character with head-tracking and hover animations
@@ -62,6 +60,3 @@ src/
 - **GitHub**: [Viveksudrik](https://github.com/Viveksudrik)
 - **LinkedIn**: [vivek-sudrik](https://linkedin.com/in/vivek-sudrik)
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
