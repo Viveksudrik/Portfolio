@@ -19,7 +19,6 @@ const Education = () => {
               <h4>Bachelor of Technology - Computer Science and Engineering</h4>
               <div className="education-footer">
                 <span className="education-date">Expected – May 2027</span>
-                <span className="education-grade">CGPA: 6.55</span>
               </div>
             </div>
           </div>

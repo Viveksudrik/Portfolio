@@ -18,17 +18,17 @@ const projects = [
     github: "https://github.com/Viveksudrik",
   },
   {
-    title: "Medium Clone",
+    title: "Medium",
     category: "Blogging Platform",
     tools: "React, Node.js, Express, PostgreSQL, Prisma, Tailwind CSS",
-    image: "/images/Medium.png",
+    image: "/images/medium.png",
     github: "https://github.com/Viveksudrik",
   },
   {
     title: "PhiloTalk",
     category: "Philosophy & Books Discussion Platform with AI",
     tools: "Next.js, TypeScript, OpenAI API, MongoDB, Tailwind CSS",
-    image: "/images/PhiloTalk.png",
+    image: "/images/philotalk.png",
     github: "https://github.com/Viveksudrik",
   },
 ];

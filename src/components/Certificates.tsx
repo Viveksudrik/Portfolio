@@ -6,19 +6,19 @@ const certificates = [
     title: "Data Structures and Algorithms",
     issuer: "Iamneo",
     date: "May 2025",
-    link: "#"
+    link: "https://drive.google.com/file/d/1QVLiK80JlCTbbtwTDkqIgsvZlvATJKZl/view?usp=sharing"
   },
   {
     title: "Full Stack Open",
     issuer: "University Of Helsinki",
     date: "Mar 2026",
-    link: "#"
+    link: "https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/889997c562ade7d2dcc8bff7ecdffb20"
   },
   {
     title: "Responsive Web Design",
     issuer: "FreeCodeCamp",
     date: "Jan 2024",
-    link: "#"
+    link: "https://www.freecodecamp.org/certification/viveksudrik/responsive-web-design"
   }
 ];
 

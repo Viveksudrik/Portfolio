@@ -18,7 +18,13 @@ const Training = () => {
                 <h4>Master DSA With C++</h4>
                 <span className="training-date">Jun 2025 - Aug 2025</span>
               </div>
-              <a href="#" className="training-link" data-cursor="disable">
+              <a 
+                href="https://drive.google.com/file/d/1K-3adpGjgid0jqMPin5Tt08KMx9K1OGp/view" 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                className="training-link" 
+                data-cursor="disable"
+              >
                 View Credentials <span>→</span>
               </a>
             </div>
