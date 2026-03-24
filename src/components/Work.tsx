@@ -8,14 +8,14 @@ const projects = [
     category: "Visual Workflow Automation Tool",
     tools: "Next.js, TypeScript, PostgreSQL, Prisma, Inngest, tRPC, Sentry",
     image: "/images/Nodebase.png",
-    github: "https://github.com/Viveksudrik",
+    github: "https://github.com/Viveksudrik/nodebase",
   },
   {
     title: "KaarigariHub",
     category: "Full-Stack Handicrafts Marketplace",
     tools: "MongoDB, Express.js, React, Node.js, JWT, Bootstrap, SCSS",
     image: "/images/KaarigariHub.jpg",
-    github: "https://github.com/Viveksudrik",
+    github: "https://github.com/Viveksudrik/KaarigariHub",
   },
   {
     title: "Medium",
